@@ -1,7 +1,7 @@
 baseURL = 'https://richardschwabe.github.io'
 languageCode = 'en-us'
 title = 'Richard Schwabe'
-theme = "ramium"
+theme = "freelancer"
 
 disqusShortname = "www-richardschwabe-de"
 googleAnalytics = "G-GC8SR0HG51"
@@ -9,50 +9,43 @@ pluralizeListTitles = false
 enableemoji = true
 
 [params]
-    description = "Personal website of the youtuber @richardschwabe"
-    googleSearch = "google-search-code"
-    showDate = true # make false if dont want to show date for evergeen articles
-    math = false # best to enable this in the front matter of a page
-    githubLink = "rafed/ramium/"
+  tagLine = "Software Developer - Dad - Youtuber"
+  homePosts = 3
+  homeProjects = 3
 
-    tagsInHome = 40     # set zero to not show in home page
-    sectionsInHome = 5  # set zero to not show in home page
-    paginatePostsPerPage = 5
-    paginateTagsPerPage = 6
+  aboutLeft = "I like technology and I like to share my knowledge. I mostly do Software Development, but my specilisation is Information Security."
+  aboutRight = "I picked up my Youtube channel in October 2022 and love making videos about python and bot development."
 
-[taxonomies]
-    tag = "tags"
+[[params.social]]
+  icon_pack='fa-brands'
+  icon="youtube"
+  url="https://www.youtube.com/@richardschwabe"
 
-[markup.goldmark.renderer]
-    unsafe = true
+[[params.social]]
+  icon_pack='fa-solid'
+  icon="tree"
+  url="https://www.linktr.ee/richardschwabe"
 
-[menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
+[[params.social]]
+  icon_pack='fa-brands'
+  icon="discord"
+  url="https://discord.gg/6h3xTkrpQT"
 
-    [[menu.main]]
-        identifier = "blog"
-        name = "This Blog"
-        weight = 2
-            [[menu.main]]
-                parent = "blog"
-                name = "All Tags"
-                url = "/tags/"
-                weight = 1
-            [[menu.main]]
-                parent = "blog"
-                name = "All Sections"
-                url = "/sections/"
-                weight = 2
-            [[menu.main]]
-                parent = "blog"
-                name = "All Posts"
-                url = "/posts/"
-                weight = 3
+[params.location]
+  lineOne = "2215 John Daniel Drive"
+  lineTwo = "Clark, MO 65243"
 
-    [[menu.main]]
-        name = "Author"
-        url = "/author/"
-        weight = 3
+[params.sbform]
+      token = ""
+
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'tags'
+  weight = 100
+[[related.indices]]
+  name = 'date'
+  weight = 10
