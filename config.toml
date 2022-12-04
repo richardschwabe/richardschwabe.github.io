@@ -9,7 +9,7 @@ pluralizeListTitles = false
 enableemoji = true
 
 [params]
-    description = "A description for the meta tag of the site"
+    description = "Personal website of the youtuber @richardschwabe"
     googleSearch = "google-search-code"
     showDate = true # make false if dont want to show date for evergeen articles
     math = false # best to enable this in the front matter of a page
