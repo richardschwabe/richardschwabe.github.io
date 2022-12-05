@@ -1,7 +1,6 @@
 ---
 title: "1k Thank You"
 date: 2022-12-05T01:42:34+02:00
-draft: true
 sidebar: true
 tags: [youtube,personal]
 hero: "post-1k-thumb.png"

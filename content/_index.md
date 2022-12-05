@@ -1,7 +1,6 @@
 ---
 title: ""
 date: 2022-12-05T00:24:33+02:00
-draft: true
 ---
 
 # Welcome

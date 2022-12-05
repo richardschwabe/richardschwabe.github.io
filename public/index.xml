@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Schwabe</title>
+    <link>https://richardschwabe.github.io/</link>
+    <description>Recent content on Richard Schwabe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Dec 2022 00:24:33 +0200</lastBuildDate><atom:link href="https://richardschwabe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1k Thank You</title>
+      <link>https://richardschwabe.github.io/posts/1k-thank-you/</link>
+      <pubDate>Mon, 05 Dec 2022 01:42:34 +0200</pubDate>
+      
+      <guid>https://richardschwabe.github.io/posts/1k-thank-you/</guid>
+      <description>Just a quick thank you and hello world in Hugo</description>
+    </item>
+    
+    <item>
+      <title>Author</title>
+      <link>https://richardschwabe.github.io/author/</link>
+      <pubDate>Sun, 04 Dec 2022 23:41:49 +0200</pubDate>
+      
+      <guid>https://richardschwabe.github.io/author/</guid>
+      <description>Hello my name is Richard Schwabe,
+I make videos on youtube and other mediums. I like to share my knowledge about anything related to Software Development.
+On this very casual blog I will write some extra infos, behind the scenes and also provide more infos for the videos I publish.
+If you want to get in touch or checkout other pages of mine checkout my linktree</description>
+    </item>
+    
+  </channel>
+</rss>

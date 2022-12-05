@@ -7,6 +7,9 @@ disqusShortname = "www-richardschwabe-de"
 googleAnalytics = "G-GC8SR0HG51"
 pluralizeListTitles = false
 enableemoji = true
+addDot = true
+addFrame = true
+highlightColor = '#7b16ff'
 
 [params]
   tagLine = "Software Developer - Dad - Youtuber"
