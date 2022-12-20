@@ -5,7 +5,7 @@ draft: false
 sidebar: true
 tags: [programming, advice]
 hero: "post-thumb.png"
-summary: ""
+summary: "You don't get paid to write code, you are getting paid to develop a product. It changes everything."
 ---
 
 # You don't get paid to write code
